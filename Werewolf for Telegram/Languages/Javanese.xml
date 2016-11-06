@@ -15,10 +15,12 @@
     <value>🗣 Dolanan Chaos/Rusuh wis dilekasi karo {0}! Gunakna /join nggo mèlu dolanan!</value>
   </string>
   <string key="NoJoinGameRunning">
-    <value>😩 Kowe telat! Dolanane wis dilekasi. Mulakna ra sah mblayang wae ket mau!</value><value>😩 É alah kok ya isih mèlu join, ngerti ra nèk kowe wis telat. Cah telatan!</value>
+    <value>😩 Kowe telat! Dolanane wis dilekasi. Mulakna ra sah mblayang wae ket mau ("`o´)-σ!</value>
+    <value>😩 É alah kok ya isih mèlu join, ngerti ra nèk kowe wis telat. Cah telatan ("`o´)-σ!</value>
   </string>
   <string key="AlreadyJoined">
-    <value>😪 Kowe wis mèlu ndul! Ra sah ngèyèl!</value><value>😪 Ra sah kakèhan klik join, ping pisan wae!</value>
+    <value>😪 Kowe wis mèlu ndul! Ra sah ngèyèl (‾-ƪ‾)( ‾-‾)-σ••••!</value>
+    <value>😪 Ra sah kakèhan klik join, ping pisan wae!</value>
   </string>
   <string key="MinuteLeftToJoin">
     <value>📣 Kurang sak menit manèh kanggo /join</value>
@@ -28,7 +30,8 @@
     <value>📣 Kurang {0} detik manèh kanggo /join</value>
   </string>
   <string key="NotEnoughPlayers">
-    <value>😔 Wah nganyelke...\nSing mèlu dolanan kurang, cobo diundang manèh kanca-kancane!</value><value>😔 Sido ora je?\nMosok sithik sing join, coba diundang manèh kancane!</value>
+    <value>😔 Wah nganyelke...\nSing mèlu dolanan kurang, cobo diundang manèh kanca-kancamu \('o')-σ!</value>
+    <value>😔 Sido ora je?\nMosok sithik sing join, coba diundang manèh kancamu \('o')-σ!</value>
   </string>
   <string key="StartingGameWait">
     <value>⌛️ Mbrèng gedumbrèng dumbrèng (iki swara kendhang critane)...\nDolanan wis dimulai. Cek PM.</value><value>⌛️ Piye? Wis siap durung?...\nDolanan wis dimulai. Cek PM.</value>
@@ -61,7 +64,8 @@
   </string>
   <string key="Flee">
     <!-- 0 - Player name -->
-    <value>🗣 {0} kok malah minggat? Wedi pa kowe? Ra niyat!</value>
+    <value>🗣 {0} kok malah minggat? Wedi pa kowe? Ra niyat!
+	(҂`_´)︻╦̵̵̿╤─ •••••</value>
   </string>
   <string key="PlayerRoleWas">
     <!-- 0 - Player name -->
@@ -103,7 +107,8 @@
     <value>Kowe Pengkhianat (Traitor)!!! Saiki kowe ujug-ujug malih dadi Srenggala (Wolf) 🐺...</value>
   </string>
   <string key="ChoiceAccepted">
-    <value>🆗 Pilihanmu wis disimpen.</value><value>🆗 Pilihan sing jos gandos!</value>
+    <value>🆗 Pilihanmu wis disimpen. \('o' \) \('o')/ (/ 'o')/</value>
+    <value>🆗 Pilihan sing jos gandos! \('o' \) \('o')/ (/ 'o')/</value>
   </string>
   <string key="BeholderSeer">
     <!-- 0 - seer name -->
